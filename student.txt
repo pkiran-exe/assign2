@@ -1,0 +1,14 @@
+Kamal,10A
+Rajini,11B
+Leo,10C
+Venki,12C
+Elisa,7C
+Raj,7A
+Ramesh,11A
+Suresh,8A
+Vijay,10A
+Rajesh,9A
+Balu,11C
+Antony,8B
+Das,12A
+Jemima,8C
